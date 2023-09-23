@@ -33,3 +33,7 @@ Fábia Mara Pereira Fernandes
 | Colaborador                                 |      LinkedIn       |
 | :------------------------------------ | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 |   Jira Software                       |     [![JiraSoftware Badge](https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Jira_%28Software%29_logo.svg/2560px-Jira_%28Software%29_logo.svg.png)](https://www.linkedin.com/in/fabia-fernandes-a79bb71a5/)             |
+
+
+| ![guilherme](https://github.com/FabiaMPF/projetos.informatica/assets/141979700/e57f71f7-d97b-4602-a6ff-26c922e27b17)| Product Owner |
+
